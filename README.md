@@ -1,6 +1,8 @@
 # Ciphers
 
-![pexels-cottonbro-studio-7319085 (2)](https://github.com/hiarijit/Ciphers/assets/68233664/f3f5f6e3-4bec-4416-b275-afadc61ee61b)
+
+![pexels-cottonbro-studio-7319085 ](https://github.com/hiarijit/Ciphers/assets/68233664/3ad7cc12-fd61-4a7c-bd59-4ede37aac304)
+
 
 Photo by cottonbro studio: https://www.pexels.com/photo/photo-of-cryptic-character-codes-7319085/
 
